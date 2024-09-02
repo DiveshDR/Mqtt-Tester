@@ -20,3 +20,5 @@ python3 VM_Device.py
 
 It Will run on local network:
 127.0.0.1 1883
+
+topic GJ27DM7582
